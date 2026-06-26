@@ -1,0 +1,6 @@
+UCI Heart Disease Dataset:
+The UCI Heart Disease Dataset is a famous database used to predict the presence of heart disease in patients.
+It contains 76 attributes, but all published experiments refer to using a subset of 14 of them.
+The "target" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+The data contains clinical parameters such as age, sex, chest pain type, resting blood pressure, cholesterol, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, and exercise induced angina.
+This dataset is widely used for machine learning and artificial intelligence tasks in cardiovascular research.

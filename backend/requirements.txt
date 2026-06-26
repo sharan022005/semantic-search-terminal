@@ -1,0 +1,13 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+pymongo==4.6.2
+motor==3.3.2
+chromadb==0.4.24
+pymupdf==1.23.26
+easyocr==1.7.1
+sentence-transformers==2.5.1
+langchain-text-splitters==0.0.1
+python-multipart==0.0.9
+pydantic==2.6.4
+numpy<2.0.0
+torch

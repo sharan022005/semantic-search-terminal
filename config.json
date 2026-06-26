@@ -1,0 +1,46 @@
+{
+  "model_name": "all-MiniLM-L6-v2",
+  "top_k": 3,
+  "score_threshold": 0.35,
+  "max_chunk_size": 500,
+  "overlap": 50,
+  "documents_folder": "documents",
+  "mongodb_url": "mongodb+srv://sharan2582005:sharan25@cluster0.nezwdwe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "mongodb_db_name": "semantic_search_terminal",
+  "synonyms": {
+    "body": [
+      "medical",
+      "health",
+      "organ",
+      "heart",
+      "anatomy"
+    ],
+    "health": [
+      "medical",
+      "wellness",
+      "condition",
+      "symptom",
+      "hospital"
+    ],
+    "medical": [
+      "health",
+      "condition",
+      "symptom",
+      "hospital",
+      "clinic"
+    ],
+    "ai": [
+      "artificial",
+      "intelligence",
+      "machine",
+      "learning",
+      "automation"
+    ],
+    "intelligence": [
+      "understand",
+      "insight",
+      "analysis",
+      "reasoning"
+    ]
+  }
+}
